@@ -4,18 +4,6 @@
 
 A custom extension for FluentCRM that allows you to trigger automations when a contact's custom field is updated — now with a built-in **Benchmark** for deeper automation control.
 
----
-
-<p align="center">
-  <img src="https://github.com/verygoodplugins/fluent-crm-field-updated-trigger/assets/13076544/7217619b-f248-4310-9ffd-bf6e87a9edc9" width="75%">
-</p>
-
-<p align="center">
-  <img src="https://github.com/verygoodplugins/fluent-crm-field-updated-trigger/assets/13076544/7dc1f60c-fe3c-48b6-8991-e2d542a0459a" width="75%">
-</p>
-
----
-
 ## ✨ Features
 
 - Trigger automations when any **custom** or **standard** CRM field is updated
